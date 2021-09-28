@@ -409,7 +409,7 @@ header .top-nav .cta-nav {
   font-size: 28px;
 }
 .info-2 .mid-info p {
-  padding: 0px 200px;
+
   font-weight: 600;
   font-size: 16px;
 }
@@ -449,7 +449,7 @@ header .top-nav .cta-nav {
 .info-3 {
   position: relative;
   width: 100%;
-  height: 120vh;
+  height: 160vh;
   top: 750px;
   background-color: #f3f1e7;
   color: black;
@@ -457,7 +457,7 @@ header .top-nav .cta-nav {
 }
 
 .info-3 .mid-info {
-  padding: 0px 400px;
+ 
   padding-bottom: 50px;
   display: flex;
   flex-direction: column;
